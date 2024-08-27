@@ -1,0 +1,34 @@
+{
+    "code": 200,
+    "msg": "ok",
+    "time": 1724762329,
+    "data": {
+        "text_url": "https://v.kuaishou.com/QfeTwW 自由的味道 该作品在快手被播放过1.9万次，点击链接，打开【快手】直接观看！",
+        "jiexi_url": "https://v.kuaishou.com/QfeTwW",
+        "code": "200",
+        "msg": "图集解析成功",
+        "title": "自由的味道 @🤕 @快手热点",
+        "author": null,
+        "avatar": "https://p4-pro.a.yximgs.com/uhead/AB/2024/07/29/15/BMjAyNDA3MjkxNTIwMDVfMTU0OTQwNjMzNl8yX2hkMTU5XzM2OA==_s.jpg",
+        "img": "https://p2.a.yximgs.com/upic/2024/08/24/14/BMjAyNDA4MjQxNDE5NTRfMTU0OTQwNjMzNl8xNDE3MjEzMzcwNTBfMl82_B8a7ade63e66a02149120d8572489b17f.jpg?clientCacheKey=3x2rv2wcjtsk9km.jpg&di=9cfba307&bp=10000",
+        "video": null,
+        "music": "https://m4.kwaicdn.com/bs2/image-music/mbm_ZUTZunlbk9Q_FOML6f6B_SY_v.m4a?pkey=AAVF3eKLF5v0WAjewqvpysdgmD09JqKl6HknhVAjvqIE_wy2Grw4x7s4CK5T9qIkFlOq0l_eKmO-GzG5Go1Zwh58kzYsKoRh81VBENxRvFv8TT0UEkilrIJGSQ6TwRhp2eo",
+        "music_name": "热循环(If You Let Me)",
+        "music_author": null,
+        "music_avatar": "https://ali2.a.yximgs.com/udata/music/mso_n8dpXAc8eEs_A7Hm2dIp6BE_v.jpg",
+        "pics": [
+            "https://tx2.a.yximgs.com/ufile/atlas/NTIzNDg3MTc1ODMxOTM4MzgzNl8xNzI0NDgwMzk1MjMz_0.jpg",
+            "https://tx2.a.yximgs.com/ufile/atlas/NTIzNDg3MTc1ODMxOTM4MzgzNl8xNzI0NDgwMzk1MjMz_1.jpg",
+            "https://tx2.a.yximgs.com/ufile/atlas/NTIzNDg3MTc1ODMxOTM4MzgzNl8xNzI0NDgwMzk1MjMz_2.jpg",
+            "https://tx2.a.yximgs.com/ufile/atlas/NTIzNDg3MTc1ODMxOTM4MzgzNl8xNzI0NDgwMzk1MjMz_3.jpg",
+            "https://tx2.a.yximgs.com/ufile/atlas/NTIzNDg3MTc1ODMxOTM4MzgzNl8xNzI0NDgwMzk1MjMz_4.jpg",
+            "https://tx2.a.yximgs.com/ufile/atlas/NTIzNDg3MTc1ODMxOTM4MzgzNl8xNzI0NDgwMzk1MjMz_5.jpg",
+            "https://tx2.a.yximgs.com/ufile/atlas/NTIzNDg3MTc1ODMxOTM4MzgzNl8xNzI0NDgwMzk1MjMz_6.jpg",
+            "https://tx2.a.yximgs.com/ufile/atlas/NTIzNDg3MTc1ODMxOTM4MzgzNl8xNzI0NDgwMzk1MjMz_7.jpg",
+            "https://tx2.a.yximgs.com/ufile/atlas/NTIzNDg3MTc1ODMxOTM4MzgzNl8xNzI0NDgwMzk1MjMz_8.jpg",
+            "https://tx2.a.yximgs.com/ufile/atlas/NTIzNDg3MTc1ODMxOTM4MzgzNl8xNzI0NDgwMzk1MjMz_9.jpg",
+            "https://tx2.a.yximgs.com/ufile/atlas/NTIzNDg3MTc1ODMxOTM4MzgzNl8xNzI0NDgwMzk1MjMz_10.jpg"
+        ],
+        "type": null
+    }
+}
